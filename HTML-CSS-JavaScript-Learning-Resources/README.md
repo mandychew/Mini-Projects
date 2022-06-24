@@ -1,6 +1,5 @@
 # Free Resources for Learning HTML, CSS and JavaScript  
 I've compiled some free resources for learning HTML, CSS and JavaScript.  
-I've also put this on a [website](https://mandychew.github.io/HTML-CSS-JavaScript-Learning-Resources/).  
 
 ## HTML, CSS & JavaScript  
 ### [Learning Web Design](https://learningwebdesign.com/) 
